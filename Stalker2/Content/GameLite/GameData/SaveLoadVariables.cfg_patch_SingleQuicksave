@@ -1,0 +1,5 @@
+DefaultConfig : struct.begin {bpatch}
+   SavesLimit : struct.begin {bpatch}
+      Quick = 1
+   struct.end
+struct.end
